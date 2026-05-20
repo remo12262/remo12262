@@ -3,11 +3,14 @@
 **AI & Quantum Defense · Digital Health · Political Intelligence**  
 Messina, Italia · Senior Expert · Builder
 
+> 🇮🇹 [Italiano](#italiano) · 🇬🇧 [English](#english)
+
 ---
 
-Sviluppo piattaforme AI per la difesa digitale, la sanità pubblica e l'intelligenza politica.
-62 anni di esperienza sul campo — nel management sanitario, nel marketing politico e nell'innovazione digitale.
-Oggi costruisco strumenti concreti per chi prende decisioni in contesti ad alta complessità.
+<a name="italiano"></a>
+## 🇮🇹 Chi sono
+
+Senior expert con 40 anni di esperienza nel management sanitario, nel marketing politico e nell'innovazione digitale. Oggi costruisco piattaforme AI per la difesa digitale, la sanità pubblica e l'intelligenza politica. Strumenti concreti per chi prende decisioni in contesti ad alta complessità.
 
 ---
 
@@ -48,7 +51,7 @@ Framing ottimale, parole a rischio, messaggi chiave calibrati sul territorio.
 
 ---
 
-## 🌐 Ecosystem
+## 🌐 Ecosistema
 
 | Piattaforma | Descrizione | Link |
 |---|---|---|
@@ -86,4 +89,79 @@ Framing ottimale, parole a rischio, messaggi chiave calibrati sul territorio.
 
 ---
 
-*Tutti i progetti sono sviluppati e mantenuti da Remo Pulcini · Messina, Italia · 2025-2026*
+<a name="english"></a>
+## 🇬🇧 About me
+
+Senior expert with 40 years of experience in healthcare management, political marketing and digital innovation. Today I build AI platforms for digital defense, public health and political intelligence. Concrete tools for decision-makers operating in high-complexity environments.
+
+---
+
+## 🛡 Cybersecurity & Quantum Defense
+
+### [AEGIS-AI](https://remo12262.github.io/aegis-ai-backend/Web/app.html)
+**AI Security Intelligence Platform**  
+Italy's first platform measuring exposure to vulnerabilities discovered by frontier AI models.  
+AES · DRS · GCI · NVD CVE live feed · Executive PDF report · Free access  
+`Python` `FastAPI` `Claude AI` `NVD API` `SQLite` `ReportLab`
+
+### [Q-STRATEGIX](https://qstrategix.com)
+**Quantum Readiness & Defense Intelligence**  
+Three integrated modules for post-quantum defense: Q-Assessment, Q-Defense, Q-Shield.  
+Aligned with NIST FIPS 203/204/205 · For CISOs, government and critical infrastructure  
+`Python` `FastAPI` `Claude AI` `Supabase` `ReportLab`
+
+---
+
+## 🏥 Digital Health
+
+### [HealthHorizon](https://healthhorizon.it)
+**AI Hub for Italian Public Healthcare**  
+SentinellaAI — predictive epidemiological surveillance.  
+PNRR Health Intelligence — Mission 6.  
+For ASL, Regions and Ministry of Health.  
+`Python` `FastAPI` `Claude AI`
+
+---
+
+## 🎯 Political Intelligence
+
+### [PoliticaLab](https://play.google.com/store/apps/details?id=com.remo.pulcini.politicalab)
+**Political AI · Available on Google Play**  
+AI advisor for candidates and local civic lists.  
+Optimal framing, risk words, key messages calibrated to the territory.  
+`Android` `Claude AI` `NLP`
+
+---
+
+## 🌐 Ecosystem
+
+| Platform | Description | Link |
+|---|---|---|
+| QuantumHorizon Hub | All AI products | [quantumhorizon-web.onrender.com](https://quantumhorizon-web.onrender.com) |
+| QuantumHorizon.it | Quantum & AI editorial portal | [quantumhorizon.it](https://quantumhorizon.it) |
+| Q-STRATEGIX | Quantum Defense Platform | [qstrategix.com](https://qstrategix.com) |
+| AEGIS-AI | AI Security Intelligence | [aegis-ai-backend](https://remo12262.github.io/aegis-ai-backend/Web/app.html) |
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=flat&logo=anthropic&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+---
+
+## 📬 Contact
+
+[![Email](https://img.shields.io/badge/Email-remo.pulcini@libero.it-D14836?style=flat&logo=gmail&logoColor=white)](mailto:remo.pulcini@libero.it)
+[![QuantumHorizon](https://img.shields.io/badge/QuantumHorizon-quantumhorizon.it-gold?style=flat)](https://quantumhorizon.it)
+
+---
+
+*All projects developed and maintained by Remo Pulcini · Messina, Italy · 2025-2026*
