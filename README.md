@@ -74,6 +74,18 @@ Hub AI per la sanità pubblica italiana: sorveglianza e intelligence PNRR per AS
   <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Render-46e3b7?style=flat-square&logo=render&logoColor=black" alt="Render">
   <img src="https://img.shields.io/badge/Claude_AI-d97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI">
+  <p align="center">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=YOUR_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Condividi_su_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Condividi su Facebook">
+  </a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=YOUR_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Condividi_su_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Condividi su LinkedIn">
+  </a>
+  <a href="https://twitter.com/intent/tweet?url=YOUR_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Condividi_su_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Condividi su Twitter">
+  </a>
+</p>
+
 </p>
 
 ---
