@@ -62,7 +62,10 @@ Amplificatore di pensiero basato su AI: da un pensiero grezzo a chiarezza, impli
 Hub AI per la sanità pubblica italiana: sorveglianza e intelligence PNRR per ASL, Regioni e Ministero.
 
     </td>
-  </tr>
+   <tr>
+    <td width="50%">
+**✈️ [AeroSentinel](https://aerosentinel.onrender.com/)**
+Piattaforma AI di security intelligence globale: aggrega fonti ufficiali (CISA, ENISA, EASA, FAA, NATO, ONU) e genera briefing e threat assessment su cyber, sicurezza aerea, geopolitica e advisory di viaggio.
 </table>
 
 ### 🛠️ Stack
@@ -76,17 +79,17 @@ Hub AI per la sanità pubblica italiana: sorveglianza e intelligence PNRR per AS
   <img src="https://img.shields.io/badge/Claude_AI-d97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI">
   <p align="center">
   <!-- Facebook -->
-<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Felder-plinius%2FCL4R1T4S" target="_blank" rel="noopener">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fremo12262%2F" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/Condividi_su_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Condividi su Facebook">
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Felder-plinius%2FCL4R1T4S" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fremo12262%2F" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/Condividi_su_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Condividi su LinkedIn">
 </a>
 
 <!-- X / Twitter -->
-<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Felder-plinius%2FCL4R1T4S&text=CL4R1T4S%20%E2%80%93%20i%20system%20prompt%20trapelati%20dei%20principali%20modelli%20AI" target="_blank" rel="noopener">
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fremo12262%2F&text=Dai%20un%27occhiata%20alla%20mia%20pagina%20GitHub" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/Condividi_su_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Condividi su X">
 </a>
     
