@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://quantumhorizon-web.onrender.com"><img src="https://img.shields.io/badge/🌐_Hub_Progetti-1a1a2e?style=for-the-badge" alt="Hub Progetti"></a>
   <a href="https://quantumhorizon.it"><img src="https://img.shields.io/badge/📰_Portale_Editoriale-b8860b?style=for-the-badge" alt="Portale Editoriale"></a>
-  <a href="mailto:info@quantumhub.tech"><img src="https://img.shields.io/badge/✉️_Contatti-1a3a6e?style=for-the-badge" alt="Contatti"></a>
+  <a href="mailto:info@quantumhorizion.it"><img src="https://img.shields.io/badge/✉️_Contatti-1a3a6e?style=for-the-badge" alt="Contatti"></a>
 </p>
 
 ---
@@ -75,10 +75,10 @@ Hub AI per la sanità pubblica italiana: sorveglianza e intelligence PNRR per AS
   <img src="https://img.shields.io/badge/Render-46e3b7?style=flat-square&logo=render&logoColor=black" alt="Render">
   <img src="https://img.shields.io/badge/Claude_AI-d97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI">
   <p align="center">
-  <a href="https://www.facebook.com/sharer/sharer.php?u=YOUR_URL" target="_blank">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/remopulcinimarketingpolitico" target="_blank">
     <img src="https://img.shields.io/badge/Condividi_su_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Condividi su Facebook">
   </a>
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=YOUR_URL" target="_blank">
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fremopulcini%2F" target="_blank" rel="noopener">Condividi su LinkedIn</a>
     <img src="https://img.shields.io/badge/Condividi_su_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Condividi su LinkedIn">
   </a>
   <a href="https://twitter.com/intent/tweet?url=YOUR_URL" target="_blank">
