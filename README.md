@@ -75,14 +75,21 @@ Hub AI per la sanità pubblica italiana: sorveglianza e intelligence PNRR per AS
   <img src="https://img.shields.io/badge/Render-46e3b7?style=flat-square&logo=render&logoColor=black" alt="Render">
   <img src="https://img.shields.io/badge/Claude_AI-d97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude AI">
   <p align="center">
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/remopulcinimarketingpolitico" target="_blank">
-    <img src="https://img.shields.io/badge/Condividi_su_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Condividi su Facebook">
-  </a>
-  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fremopulcini%2F" target="_blank" rel="noopener">Condividi su LinkedIn</a>
-    <img src="https://img.shields.io/badge/Condividi_su_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Condividi su LinkedIn">
-  </a>
-  <a href="https://twitter.com/intent/tweet?url=YOUR_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Condividi_su_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Condividi su Twitter">
+  <!-- Facebook -->
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Felder-plinius%2FCL4R1T4S" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Condividi_su_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Condividi su Facebook">
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Felder-plinius%2FCL4R1T4S" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Condividi_su_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Condividi su LinkedIn">
+</a>
+
+<!-- X / Twitter -->
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Felder-plinius%2FCL4R1T4S&text=CL4R1T4S%20%E2%80%93%20i%20system%20prompt%20trapelati%20dei%20principali%20modelli%20AI" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Condividi_su_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Condividi su X">
+</a>
+    
   </a>
 </p>
 
