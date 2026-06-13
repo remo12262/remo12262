@@ -65,8 +65,11 @@ Hub AI per la sanità pubblica italiana: sorveglianza e intelligence PNRR per AS
    <tr>
     <td width="50%">
 **✈️ [AeroSentinel](https://aerosentinel.onrender.com/)**
-Piattaforma AI di security intelligence globale: aggrega fonti ufficiali (CISA, ENISA, EASA, FAA, NATO, ONU) e genera briefing e threat assessment su cyber, sicurezza aerea, geopolitica e advisory di viaggio.
-</table>
+Piattaforma AI di global security intelligence da sole fonti ufficiali: briefing e threat assessment su cyber, aviazione, geopolitica e viaggi.
+
+    </td>
+   <tr>
+    <td width="50%">
 
 ### 🛠️ Stack
 
