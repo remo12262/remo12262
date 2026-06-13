@@ -64,7 +64,7 @@ Hub AI per la sanità pubblica italiana: sorveglianza e intelligence PNRR per AS
     </td>
    <tr>
     <td width="50%">
-**✈️ [AeroSentinel](https://aerosentinel.onrender.com/)**
+**✈️  [AeroSentinel](https://aerosentinel.onrender.com/)**
 Piattaforma AI di global security intelligence da sole fonti ufficiali: briefing e threat assessment su cyber, aviazione, geopolitica e viaggi.
 
     </td>
