@@ -93,4 +93,3 @@ Dirigente delle professioni sanitarie con oltre trent'anni nel Servizio Sanitari
 ---
 
 <p align="center"><i>Quantum Horizon Italia · Made in Italy</i></p>
-  
