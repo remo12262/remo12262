@@ -43,8 +43,8 @@ Dirigente delle professioni sanitarie con oltre trent'anni nel Servizio Sanitari
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🧠 <a href="https://nous-qjf6.onrender.com">NOUS</a></b><br>
-      Amplificatore di pensiero basato su AI: da un pensiero grezzo a chiarezza, implicazioni e prossimi passi.
+      <b>🏥 <a href="https://sanitapro-api.onrender.com">SanitàPro</a></b><br>
+      Assistente AI per operatori del SSN: chat su CCNL Sanità, concorsi pubblici e mobilità. Modello freemium con abbonamento PayPal.
     </td>
     <td width="50%" valign="top">
       <b>🏥 <a href="https://healthhorizon.it">HealthHorizon</a></b><br>
