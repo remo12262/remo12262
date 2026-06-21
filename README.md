@@ -81,6 +81,16 @@ Dirigente delle professioni sanitarie con oltre trent'anni nel Servizio Sanitari
   <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fremo12262%2F" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Condividi_su_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Condividi su LinkedIn">
   </a>
+  <tr>
+    <td width="50%" valign="top">
+      <b>✈️ <a href="https://aerosentinel.onrender.com/">AeroSentinel</a></b><br>
+      Piattaforma AI di global security intelligence da sole fonti ufficiali: briefing e threat assessment su cyber, aviazione, geopolitica e viaggi.
+    </td>
+    <td width="50%" valign="top">
+      <b>🌍 <a href="https://geopolitical-radar-frontend.onrender.com/">GeoRadar</a></b><br>
+      Radar geopolitico: monitoraggio e analisi in tempo reale di eventi e tensioni internazionali da fonti pubbliche.
+    </td>
+  </tr>
   <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fremo12262%2F&text=Dai%20un%27occhiata%20alla%20mia%20pagina%20GitHub" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Condividi_su_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Condividi su X">
   </a>
