@@ -61,6 +61,14 @@ Dirigente delle professioni sanitarie con oltre trent'anni nel Servizio Sanitari
       Radar geopolitico: monitoraggio e analisi in tempo reale di eventi e tensioni internazionali da fonti pubbliche.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🪙 <a href="https://github.com/remo12262/token-saver">token-saver</a></b><br>
+      Intelligent token optimizer for Anthropic API. Drop-in replacement: 2 lines to integrate, up to 67% token reduction. Includes static analyzer, semantic compressor and CLI tool.
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
 
 ### 🛠️ Stack
