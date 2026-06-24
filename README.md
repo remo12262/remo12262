@@ -22,13 +22,14 @@ Dirigente delle professioni sanitarie con oltre trent'anni nel Servizio Sanitari
 
 **[token-saver](https://github.com/remo12262/token-saver)** — Python SDK for the Anthropic API
 
-Drop-in replacement that cuts token usage by up to 67% through static analysis, semantic compression, and cost tracking. No extra dependencies. 85 tests passing.
+Drop-in replacement that cuts token usage by up to 67% through static analysis, semantic compression, and cost tracking. Only depends on the official Anthropic SDK. 85 tests passing.
 
 ```bash
-pip install token-saver
+pip install git+https://github.com/remo12262/token-saver.git
 tsave scan myapp.py
 ```
 
+[![tests](https://github.com/remo12262/token-saver/actions/workflows/tests.yml/badge.svg)](https://github.com/remo12262/token-saver/actions/workflows/tests.yml)
 [![MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/remo12262/token-saver/blob/main/LICENSE)
 
 ---
