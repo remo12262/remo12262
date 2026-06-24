@@ -25,10 +25,11 @@ Dirigente delle professioni sanitarie con oltre trent'anni nel Servizio Sanitari
 Drop-in replacement that cuts token usage by up to 67% through static analysis, semantic compression, and cost tracking. Only depends on the official Anthropic SDK. 85 tests passing.
 
 ```bash
-pip install git+https://github.com/remo12262/token-saver.git
+pip install tsave
 tsave scan myapp.py
 ```
 
+[![PyPI](https://img.shields.io/pypi/v/tsave)](https://pypi.org/project/tsave/)
 [![tests](https://github.com/remo12262/token-saver/actions/workflows/tests.yml/badge.svg)](https://github.com/remo12262/token-saver/actions/workflows/tests.yml)
 [![MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/remo12262/token-saver/blob/main/LICENSE)
 
