@@ -29,8 +29,6 @@ pip install token-saver
 tsave scan myapp.py
 ```
 
-[![PyPI](https://img.shields.io/badge/pypi-v0.1.0-blue)](https://pypi.org/project/token-saver/)
-[![tests](https://img.shields.io/badge/tests-85%20passing-brightgreen)](https://github.com/remo12262/token-saver/actions)
 [![MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/remo12262/token-saver/blob/main/LICENSE)
 
 ---
