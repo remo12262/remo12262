@@ -18,6 +18,23 @@
 
 Dirigente delle professioni sanitarie con oltre trent'anni nel Servizio Sanitario Nazionale, laurea in Giurisprudenza e una passione per ciò che sta al confine tra tecnologia, diritto e interesse pubblico. Con Quantum Horizon Italia porto l'intelligenza artificiale e il quantum dentro problemi reali: proteggere le infrastrutture, leggere le dinamiche del potere, rendere più efficiente la sanità.
 
+### 🧰 Open Source
+
+**[token-saver](https://github.com/remo12262/token-saver)** — Python SDK for the Anthropic API
+
+Drop-in replacement that cuts token usage by up to 67% through static analysis, semantic compression, and cost tracking. No extra dependencies. 85 tests passing.
+
+```bash
+pip install token-saver
+tsave scan myapp.py
+```
+
+[![PyPI](https://img.shields.io/badge/pypi-v0.1.0-blue)](https://pypi.org/project/token-saver/)
+[![tests](https://img.shields.io/badge/tests-85%20passing-brightgreen)](https://github.com/remo12262/token-saver/actions)
+[![MIT](https://img.shields.io/badge/license-MIT-green)](https://github.com/remo12262/token-saver/blob/main/LICENSE)
+
+---
+
 ### 🚀 Progetti
 
 <table>
@@ -59,14 +76,6 @@ Dirigente delle professioni sanitarie con oltre trent'anni nel Servizio Sanitari
     <td width="50%" valign="top">
       <b>🌍 <a href="https://geopolitical-radar-frontend.onrender.com/">GeoRadar</a></b><br>
       Radar geopolitico: monitoraggio e analisi in tempo reale di eventi e tensioni internazionali da fonti pubbliche.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🪙 <a href="https://github.com/remo12262/token-saver">token-saver</a></b><br>
-      Intelligent token optimizer for Anthropic API. Drop-in replacement: 2 lines to integrate, up to 67% token reduction. Includes static analyzer, semantic compressor and CLI tool.
-    </td>
-    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
